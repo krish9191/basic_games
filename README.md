@@ -4,7 +4,7 @@ giving input according to the programic logic.
 ### To SetUp and Start
 ```
 pip install -r requirements.txt 
-python run.py
+python tictactoe_run.py
 
 ```
 
